@@ -38,7 +38,7 @@ SEND_TO_2 = myfrnd__2@gmail.com
 SEND_TO_3 = ....so on
 ```
 Give the path of your Screen Shot folder.
-* Note - The Path which you will copy contins single slash i.e. '\' make it all double slash.
+* Note - The Path which you will copy contins single slash i.e. '\\' make it all double slash.
 
 ```
 * For window it would be something like this.
