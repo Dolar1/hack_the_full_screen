@@ -24,7 +24,7 @@ The gmail account which you will be using to send the Screen Shot should on this
 
 
 ```
-![Image For Button](./images/google_on_button.png?raw=true "Google Button")
+![Image For Button](https://github.com/Dolar1/hack_the_full_screen/blob/master/images/google_on_button.png?raw=true)
 ```
 
 ### Configuring Environment Variable
