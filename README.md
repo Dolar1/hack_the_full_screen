@@ -21,12 +21,6 @@ Since the script is written in Node.js You need to have nodejs installed in your
 The gmail account which you will be using to send the Screen Shot should on this button from the given link.
 * [Link To Button](https://myaccount.google.com/lesssecureapps) - just to allow the permissions.
 
-
-
-```
-![](https://github.com/Dolar1/hack_the_full_screen/blob/master/images/google_on_button.png)
-```
-
 ### Configuring Environment Variable
 
 fill up the email via which you will be sending the mail.
